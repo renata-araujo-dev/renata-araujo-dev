@@ -15,10 +15,6 @@
 
 ##
 
-<!--
-
 <div>
   ![Snake animation](https://github.com/renata-araujo-dev/renata-araujo-dev/blob/output/github-contribution-grid-snake.svg)
 </div>
-
--->
